@@ -1,0 +1,9 @@
+# Model weights, feature caches, and saved models (too large for GitHub / regenerable)
+checkpoints/
+feature_cache/
+noise_model/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
